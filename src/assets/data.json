@@ -1,0 +1,77 @@
+[
+    {
+        
+        "flightName": "Kingfisher",
+        "source": "Hyderabad",
+        "destination": "Pune",
+        "arrivalTime": "11:15AM",
+        "depatureTime": "11:22AM",
+        "journeyDate": "24-Apr-2018",
+        "price": "8000"
+    },
+    {
+        "flightName": "Indigo",
+        "source": "Hyderabad",
+        "destination": "Chennai",
+        "arrivalTime": "10:15AM",
+        "depatureTime": "10:22AM",
+        "journeyDate": "24-Apr-2018",
+        "price": "6000"
+    },
+    {
+        "flightName": "Jet",
+        "source": "Hyderabad",
+        "destination": "Banglore",
+        "arrivalTime": "12:15AM",
+        "depatureTime": "12:22AM",
+        "journeyDate": "24-Apr-2018",
+        "price": "6000"
+    },
+    {
+        "flightName": "JetKing",
+        "source": "Hyderabad",
+        "destination": "Mangalore",
+        "arrivalTime": "09:20AM",
+        "depatureTime": "09:30AM",
+        "journeyDate": "25-Apr-2018",
+        "price": "7000"
+    },
+
+     {
+        
+        "flightName": "Kingfisher",
+        "source": "Pune",
+        "destination": "Hyderabad",
+        "arrivalTime": "11:15AM",
+        "depatureTime": "11:22AM",
+        "journeyDate": "24-Apr-2018",
+        "price": "8000"
+    },
+    {
+        "flightName": "Indigo",
+        "source": "Chennai",
+        "destination": "Hyderabad",
+        "arrivalTime": "10:15AM",
+        "depatureTime": "10:22AM",
+        "journeyDate": "24-Apr-2018",
+        "price": "6000"
+    },
+    {
+        "flightName": "Jet",
+        "source": "Banglore",
+        "destination": "Hyderabad",
+        "arrivalTime": "12:15AM",
+        "depatureTime": "12:22AM",
+        "journeyDate": "24-Apr-2018",
+        "price": "6000"
+    },
+    {
+        "flightName": "JetKing",
+        "source": "Mangalore",
+        "destination": "Hyderabad",
+        "arrivalTime": "09:20AM",
+        "depatureTime": "09:30AM",
+        "journeyDate": "25-Apr-2018",
+        "price": "7000"
+    }
+]
